@@ -4,6 +4,6 @@ This project revolves around deploying basic Image Processing methods on Vivado 
 
 3 operations are performed in this project
 
-Brightness Increment/Decrement
-Image Inversion
-Threshold
+1. Brightness Increment/Decrement
+2. Image Inversion
+3. Threshold
