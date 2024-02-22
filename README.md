@@ -1,6 +1,6 @@
 # ImageProcessing-Verilog
 
-This project revolves around deploying basic Image Processing methods on an FPGA and simulating it.
+This project revolves around deploying basic Image Processing methods on Vivado and simulating it.
 
 3 operations are performed in this project
 
